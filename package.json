@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jsnwhited/liri_node_app#readme",
   "dependencies": {
+    "dotenv": "^8.1.0",
     "node-spotify-api": "^1.1.1",
     "omdb": "^0.8.0",
     "request": "^2.88.0",
